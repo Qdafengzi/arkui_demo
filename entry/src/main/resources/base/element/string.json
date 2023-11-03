@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "鸿蒙App"
+    },
+    {
+      "name": "Main_label_one",
+      "value": "组件"
+    },
+    {
+      "name": "Main_label_two",
+      "value": "工程"
+    },
+    {
+      "name": "Main_label_three",
+      "value": "其他"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/widgets/row_column",
+    "pages/widgets/stack",
+    "pages/widgets/flex",
+    "pages/widgets/relative_container",
+    "pages/widgets/grid_row",
+    "pages/widgets/media_query",
+    "pages/widgets/list",
+    "pages/widgets/grid",
+    "pages/widgets/swiper",
+    "pages/widgets/button",
+    "pages/widgets/radio",
+    "pages/widgets/toggle",
+    "pages/widgets/progress",
+    "pages/widgets/text",
+    "pages/widgets/input",
+    "pages/widgets/dialog",
+    "pages/widgets/video",
+    "pages/widgets/popup",
+    "pages/widgets/menu"
+
+
+  ]
+}
